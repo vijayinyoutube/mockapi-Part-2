@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58719230/107118823-5208c400-68a9-11eb-8738-b46e4dd16da3.png" width="100%">
+<img src="https://user-images.githubusercontent.com/58719230/107849138-38bec500-6e1f-11eb-9be8-b1a6f0c39dd5.png" width="100%">
 </p>
 
 ## Flutter
